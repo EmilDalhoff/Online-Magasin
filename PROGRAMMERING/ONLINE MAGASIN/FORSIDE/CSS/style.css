@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+body {
+    border: 3px solid #72b52f;
+    align-items: center;
+    justify-content: center;
+    }
+
+li, a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #72b52f;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+padding: 0px 0px;    
+
+}
+
+.logo {
+    cursor: pointer;
+   
+}
+
+.navlinks li {
+    display: inline-block;
+    padding: 0px 60px;
+}
+
+.navlinks li a {
+    transition: all 0.3s ease 0s;
+}
+
+.navlinks li a:hover {
+    color: #379147;
+}
+
+
+
+    
+.img-ello{
+width: 100%;
+border: 3px solid #72b52f
+
+}
+
+.img-ello{
+    border-style: solid none;
+
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #72b52f;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underlin e #379147;
+    margin: 50px;
+
+}
+
+.column {
+	float: left;
+	width: 33.33200%;
+	padding: 80px;
+    
+}
+
+.column {
+    border-radius: 100px;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.center {
+font-family: 'Open Sans', sans-serif;
+color: #72b52f;
+font-weight: bolder;
+text-align: center;
+font-size: 30px;
+}
+
+footer {
+    width: 100%;
+    padding: 35px 0px;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid; color: #72b52f;
+    justify-content: space-between;
+}
+.minilogo {
+float: left;
+}
+.billede {
+    float: right;
+}

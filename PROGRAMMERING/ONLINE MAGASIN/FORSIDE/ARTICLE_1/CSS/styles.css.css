@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+body {
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+
+li, a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #72b52f;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+padding: 0px 0px;    
+
+}
+
+.logo {
+    cursor: pointer;
+   
+}
+
+.navlinks li {
+    display: inline-block;
+    padding: 0px 60px;
+}
+
+.navlinks li a {
+    transition: all 0.3s ease 0s;
+}
+
+.navlinks li a:hover {
+    color:#72b52f
+}
+
+.picture {
+float: left;
+width: 20%;
+padding: 10px
+}
+
+.pic {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+article {
+    float: left;
+    width: 100%;
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.apps {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    color: #72b52f;
+    text-align: center;
+}
+
+.mad {
+    text-align: center;
+}
+
+.head
+{
+    line-height: 200%;
+    text-align: left
+}
+
+footer {
+    width: 100%;
+    padding: 30px 0px;
+    font-family: 'Open Sans', sans-serif;
+    
+    justify-content: space-between;
+    bottom: 0;
+    left: 0;
+    
+}
+.minilogo {
+float: left;
+}
+.billede {
+    float: right;
+}
+
+

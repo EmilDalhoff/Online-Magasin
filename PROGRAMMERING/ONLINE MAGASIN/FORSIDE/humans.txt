@@ -1,0 +1,28 @@
+# humanstxt.org
+
+#TEAM 
+
+Emil Dalhoff Petersen
+
+___
+
+#THANKS
+
+THANKS TO Google.Fonts for providing us with a font for this
+
+THANKS TO Unsplash for providing us with a couple of photos
+
+
+___
+
+# TECHNOLOGY
+
+#DESIGN
+
+VISUAL STUDIO CODE
+
+FILEZILLA
+
+## HOSTING
+
+Simply.comsi
